@@ -1,5 +1,5 @@
 ##### shell_
-my first windows shell script
+windows shell script- 
 
 ##### run
 `git clone https://github.com/james-wachuka/shell_.git`
